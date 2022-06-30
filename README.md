@@ -27,9 +27,10 @@ I am looking to collaborate on:
 - dynamic reporting projets using public data sets
 
 I can be found at:
+- snyderc@montclair.edu
+- https://www.linkedin.com/in/csnydermph/
 - https://cssmph.com/ 
 - https://www.montclair.edu/pseg-sustainability-institute/campus-community-garden/
-- snyderc@montclair.edu
 
 <!---
 - 👋 Hi, I’m @Roqarr
