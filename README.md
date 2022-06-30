@@ -1,12 +1,14 @@
 Hi, I’m Chris (@Roqarr). 
 I am:
+- a Bachelor of Anthropology
 - a Master of Public Health
-- a current PhD Student studying Sustainable Food Systems.
+- a current PhD Student studying Sustainable Food Systems
+- a researcher specializing in environmental sustainability and public health programs
 
 My project interests involve:
 - choropleth mapping
 - demographics and statistical research
-- dynamic report generation of national-level public health data
+- dynamic report generation of environmental and public health data
 - dynamic report generation from sensors on usb-gadgets and networked SBC's
 
 My projects are made using:
@@ -14,17 +16,16 @@ My projects are made using:
 - Python, for collecting environmental data using SBC's and peripheral sensors
 - Bash, for process automation and task scheduling
 
-
-
 I am currently learning:
 - Arduino, for possible smart agricultural implementation
 - Raspberry Pi, for environmental data collection
- 
 
 I am looking to collaborate on:
 - smart or precision agriculture 
-- food security research 
+- food security research and initiatives
 - dynamic reporting projets using public data sets
+- thematic mapping projects
+- pedestrian safety and sustainable transportation initaitives
 
 I can be found at:
 - snyderc@montclair.edu
