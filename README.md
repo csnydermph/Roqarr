@@ -28,10 +28,7 @@ I am looking to collaborate on:
 - pedestrian safety and sustainable transportation initaitives
 
 I can be found at:
-- snyderc@montclair.edu
 - https://www.linkedin.com/in/csnydermph/
-- https://cssmph.com/ 
-- https://www.montclair.edu/pseg-sustainability-institute/campus-community-garden/
 
 <!---
 - 👋 Hi, I’m @Roqarr
