@@ -1,4 +1,4 @@
-Hi, I’m Chris (@Roqarr). 
+Hi, I’m Chris (@csnydermph). 
 I am:
 - a Bachelor of Anthropology
 - a Master of Public Health
